@@ -8,7 +8,7 @@
   - released under the MIT License
 
 
-#### Designing in The Easy is difficult
+#### Creating the easily used from hard stuff
 
 - Best-In-Class extended precision numerics
   - with the math functions one expects
