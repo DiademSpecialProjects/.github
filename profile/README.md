@@ -4,7 +4,9 @@
 
 - a contributor to Best Practices
 
-- a prolific provider of Open Source pacakge (MIT License)
+- providing well-regarded Open Source packages
+  - released under the MIT License
+
 
 #### Designing The Easy into the otherwise difficult
 
@@ -12,6 +14,10 @@
   - with the math functions one expects
   - offering accuracy and performance
  
-#### Application of Select Finanical Series 
+ 
+#### Attending Financial Series
 
+- from Mutual Information to Mutual Intent
+- projective transformation in 4D subspaces
+- algorithm design for pragmatic use 
 
