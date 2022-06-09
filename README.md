@@ -1,7 +1,31 @@
 # Diadem Special Projects LLC
-Julia Innovator, Financial Series Development, Special Numerics Best Practice
 
-hosted repositories
+### Innovative Julia Software from Respected Sources
+
+- Designs apply Best Practices
+- Software uses state of the art methods for performance
+- Packages are accompanied by tests with high coverage
+
+### Tools and Analytics that inform Finanical Series
+
+- developer of tools for transforming Financial Time Series 
+    - [RollingFunctions](github.com/JeffreySarnoff/RollingFunctions.jl)
+
+- designer of accurate, precise math libraries
+    - [SaferIntegers](github.com/JeffreySarnoff/SaferIntegers.jl)
+    - [DoubleFloats](github.com/JuliaMath/DoubleFloats.jl)
+    - [ArbNumerics](github.com/JeffreySarnoff/ArbNumerics.jl)
+ 
+- provider of enhanced Dates, Times, and Timestamps
+    - dates with times of day in nanoseconds
+        - [NanoDates](github.com/JeffreySarnoff/NanoDates.jl)
+    - dates with times of day in nanoseconds and timezones
+        - [TimesDates](github.com/JeffreySarnoff/TimesDate.jl)
+
+
+----
+
+### Diadem's hosted repositories
 
 FasterOps.jl Private
 Some simple arithmetic operations with more *do getting done*.
