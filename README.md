@@ -25,29 +25,33 @@
 
 ----
 
-### Diadem's hosted repositories
+### Diadem's (private) hosted repositories
 
-FasterOps.jl Private
-Some simple arithmetic operations with more *do getting done*.
+#### FasterOps.jl
+- Some simple arithmetic operations with more *do getting done*.
 
-RefVectors.jl Private
-Wraps forwarding all the usual ops through the reference to a vector.
+#### RefVectors.jl
+- Wraps forwarding all the usual ops through the reference to a vector.
 
-FinancialDataSeries.jl Private
-Easily grasped retrieval, storage, updating, spanning, and more for sequenced data from financial markets
+#### FinancialDataSeries.jl
+- Easily grasped retrieval, storage, updating, spanning, and more for sequenced data from financial markets
 
-FredDataSeries.jl Private
-Easily grasped retrieval, storage, updating, spanning, and more for sequenced data from FRED data service
+#### FredDataSeries.jl
+- Easily grasped retrieval, storage, updating, spanning, and more for sequenced data from FRED data service
 
-CoinbaseDataSeries.jl Private
-Utilizing Coinbase for its data supply
+#### CoinbaseDataSeries.jl
+- Utilizing Coinbase for its data supply
 
-Windowed.jl Private
-functions optimized for rolling over windowed data
+#### Windowed.jl
+- functions optimized for rolling over windowed data
 
-Builders.jl Private
-provides constructive utilities for the support of other modules
+#### Builders.jl
+- provides constructive utilities for the support of other modules
 
-Test.jl Private
-work in process testing
+#### Test.jl
+- work in process testing
+
+----
+
+Copyright © 2022 by Diadem Special Projects LLC. All Rights Reserved.
 
